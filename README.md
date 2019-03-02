@@ -1,3 +1,3 @@
 # arkipel-placeholder
 
-Simple web page used as a temporary placeholder for [arkipel.ca](http://arkipel.ca).
+Simple web page used as a temporary placeholder for [arkipel.ca](https://arkipel.ca).
